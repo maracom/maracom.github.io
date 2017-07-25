@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Front!
-tagline: Hello Jekyll
+subtitle: Hello Jekyll
+description:
+author: maracom
 ---
 {% include JB/setup %}
 
